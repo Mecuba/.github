@@ -6,7 +6,7 @@
 <h3 align="center"> 🤖 R&D and Tech Consulting 🤖</a>| Mexican group 🇲🇽 </h3>
   
 <p align="center">
-  <a title="Mecuba" href="https://www.youtube.com/c/MECUBA"><img src="M.png" alt="Mecuba" width="8%" /></a>
+  <a title="Mecuba" href="https://www.youtube.com/c/MECUBA"><img src="[M.png](https://raw.githubusercontent.com/Ajelandro19/Ajelandro19/main/M.png)" alt="Mecuba" width="8%" /></a>
 <p>
 
  <h2 align="center">El video más reciente <br></h2>
